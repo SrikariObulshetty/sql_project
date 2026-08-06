@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep .gitignore
+!.gitignore
+
+# Keep these folders
+!project/
+!project/**
+
+!sql_load/
+!sql_load/**
