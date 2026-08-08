@@ -4,9 +4,14 @@
 # Keep .gitignore
 !.gitignore
 
-# Keep these folders
+# Keep project folder
 !project/
 !project/**
 
+# Keep sql_load folder
 !sql_load/
 !sql_load/**
+
+# Keep assets folder
+!assets/
+!assets/**
