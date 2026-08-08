@@ -186,11 +186,11 @@ LIMIT 25;
 ```
 Here's a breakdown of the results for top paying skills for Data Analysts:
 
-•***High Demand for Big Data & ML Skills***: Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
+• ***High Demand for Big Data & ML Skills***: Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
 
-•***Software Development & Deployment Proficiency***: Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
+• ***Software Development & Deployment Proficiency***: Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 
-•***Cloud Computing Expertise***: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
+• ***Cloud Computing Expertise***: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 
 
 | Skills       | Average Salary ($) |
@@ -236,16 +236,16 @@ LIMIT 25;
 
 | Skill ID | Skills     | Demand Count | Average Salary ($) |
 |----------|------------|-------------:|-------------------:|
-| 8        | go         | 27           | 115,320            |
-| 234      | confluence | 11           | 114,210            |
-| 97       | hadoop     | 22           | 113,193            |
-| 80       | snowflake  | 37           | 112,948            |
-| 74       | azure      | 34           | 111,225            |
-| 77       | bigquery   | 13           | 109,654            |
-| 76       | aws        | 32           | 108,317            |
-| 4        | java       | 17           | 106,906            |
-| 194      | ssis       | 12           | 106,683            |
-| 233      | jira       | 20           | 104,918            |
+| 8      | go         | 27           | 115,320            |
+| 234    | confluence | 11           | 114,210            |
+| 97     | hadoop     | 22           | 113,193            |
+| 80     | snowflake  | 37           | 112,948            |
+| 74     | azure      | 34           | 111,225            |
+| 77     | bigquery   | 13           | 109,654            |
+| 76     | aws        | 32           | 108,317            |
+| 4      | java       | 17           | 106,906            |
+| 194    | ssis       | 12           | 106,683            |
+| 233    | jira       | 20           | 104,918            |
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
