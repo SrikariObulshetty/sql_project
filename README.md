@@ -246,23 +246,26 @@ LIMIT 25;
 | 4      | java       | 17           | 106,906            |
 | 194    | ssis       | 12           | 106,683            |
 | 233    | jira       | 20           | 104,918            |
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
-•***High-Demand Programming Languages***: Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
+• ***High-Demand Programming Languages***: Python and R stand out for their high demand, with demand counts of 236 and 148 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued but also widely available.
 
-•***Cloud Tools and Technologies***: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
+• ***Cloud Tools and Technologies***: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
 
-•***Business Intelligence and Visualization Tools***: Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
-Database Technologies: The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
+• ***Business Intelligence and Visualization Tools***: Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
+• ***Database Technologies***: The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
 # What I learned
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
-•***🧩 Complex Query Crafting***: Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-•***📊 Data Aggregation***: Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-•***💡 Analytical Wizardry***: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+• ***🧩 Complex Query Crafting***: Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
+
+• ***📊 Data Aggregation***: Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+
+• ***💡 Analytical Wizardry***: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
 # Conclusions
 
