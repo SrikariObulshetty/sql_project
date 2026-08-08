@@ -273,7 +273,8 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 From the analysis, several general insights emerged:
 
 ***1.Top-Paying Data Analyst Jobs***: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
-Skills for Top-Paying Jobs: High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
+
+***2.Skills for Top-Paying Jobs***: High-paying data analyst jobs require advanced proficiency in SQL, suggesting it’s a critical skill for earning a top salary.
 
 ***2.Most In-Demand Skills***: SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
 
