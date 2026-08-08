@@ -12,6 +12,7 @@
 
 
 The questions I wanted to answer through my SQL queries were:
+
 1.What are the top-paying data analyst jobs?
 
 2.What skills are required for these top-paying jobs?
